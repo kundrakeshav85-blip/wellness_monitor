@@ -1,0 +1,11 @@
+flask
+opencv-python
+torch
+torchvision
+pandas
+numpy
+tensorflow
+keras
+matplotlib
+psutil
+requests
