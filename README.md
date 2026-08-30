@@ -38,7 +38,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Kartikey**
-- GitHub: [@kartikey-g8](https://github.com/kartikey-g8)
+- GitHub: [@kundrakeshav85-blip](https://github.com/kundrakeshav85-blip/wellness_monitor)
 
 ## 🙏 Acknowledgments
 
